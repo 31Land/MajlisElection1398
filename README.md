@@ -1,2 +1,2 @@
 # MajlisElection1398
-Compare Majlis Districts 
+Comparing Majlis Districts, Election 2020 
